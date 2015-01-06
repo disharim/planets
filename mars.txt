@@ -4,4 +4,11 @@ okay
 i'll be back
 mars is also a chocolate
 This is Jhansi's edits they are the best 
+<<<<<<< HEAD
 I am going to edit this and see if this works. 
+=======
+This is a test editing online 
+hula hoop!
+>>>>>>> f29db92aee8ab9a83f34e6c7f6b38450dac6d0bb
+
+This is another test after lunch 
